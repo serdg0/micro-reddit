@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddd898c-8ea0-4f0f-8bfd-cfa363ef2cd3" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/app/models/comment.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20190829221803_create_comments.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fixtures/comments.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/models/comment_test.rb" afterDir="false" />
+>>>>>>> a434b67d3cc0716f53bc641aa1773d88689e373b
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" afterDir="false" />
@@ -14,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/app/models/comment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/comment.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/post.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/config.ru" beforeDir="false" afterPath="$PROJECT_DIR$/config.ru" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
@@ -36,6 +47,10 @@
       <change beforePath="$PROJECT_DIR$/test/models/post_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/post_test.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/models/user_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/user_test.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+>>>>>>> e3bef6bb2569d7f568743b126d3c941730d631ca
+>>>>>>> a434b67d3cc0716f53bc641aa1773d88689e373b
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,10 +213,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567097974146</updated>
+<<<<<<< HEAD
+      <workItem from="1567097976013" duration="7863000" />
+      <workItem from="1567113213899" duration="2533000" />
+=======
       <workItem from="1567097976013" duration="4674000" />
       <workItem from="1567106061823" duration="351000" />
       <workItem from="1567106441273" duration="1461000" />
+<<<<<<< HEAD
       <workItem from="1567112434823" duration="6390000" />
+=======
+      <workItem from="1567112434823" duration="5347000" />
+>>>>>>> e3bef6bb2569d7f568743b126d3c941730d631ca
+>>>>>>> a434b67d3cc0716f53bc641aa1773d88689e373b
     </task>
     <servers />
   </component>
