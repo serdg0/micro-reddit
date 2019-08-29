@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddd898c-8ea0-4f0f-8bfd-cfa363ef2cd3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/micro-reddit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/micro-reddit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +140,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567097974146</updated>
-      <workItem from="1567097976013" duration="4674000" />
+      <workItem from="1567097976013" duration="7863000" />
+      <workItem from="1567113213899" duration="2533000" />
     </task>
     <servers />
   </component>
@@ -155,7 +153,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
