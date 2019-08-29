@@ -1,24 +1,48 @@
-# README
+# Building with Active Record
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Micro-reddit repository
 
-Things you may want to cover:
+**Description** 
+Task done as a part of the Microverse Curriculum.
 
-* Ruby version
+Full description:
 
-* System dependencies
+[Micro-reddit](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
 
-* Configuration
 
-* Database creation
+## Framework
 
-* Database initialization
+Ruby on Rails
 
-* How to run the test suite
+## GEMS
 
-* Services (job queues, cache servers, search engines, etc.)
+* Rest-Client
 
-* Deployment instructions
+## PROTOCOLS
+HTTP
 
-* ...
+**Coded by**
+
+[MephistoDevelop](https://www.github.com/mephistodevelop)
+
+[Sergio Diaz](https://www.github.com/serdg0)
+
+## Getting started
+To get started with the app, clone the repo and then install the needed gems:
+
+##### $ bundle install --without production
+
+Next, migrate the database:
+
+##### $ rails db:migrate
+
+Finally, run the test suite to verify that everything is working correctly:
+
+##### $ rails test
+
+If the test suite passes, you'll be ready to run the app in a local server:
+
+##### $ rails server
+
+For more information, see the Ruby on Rails Tutorial [book](https://www.railstutorial.org/book/).
+
